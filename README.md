@@ -14,7 +14,11 @@ Usages is as follows:
 
 Requires bzip2, unzip, xzip, and gzip
 Tested on the following versions:
+
 bzip2 1.0.8-4
+
 unzip 6.0-26
+
 xzip 1:1.8.2-4+b1
+
 gzip 1.10-4
