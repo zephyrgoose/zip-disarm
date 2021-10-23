@@ -7,7 +7,7 @@ This tool is primarily for CTFs, as a tool for unzipping files that have been zi
 
 Usages is as follows:
 - There must be a folder called zippy in the same working directory as this script
-- Inside that folder there must be your zip file, and it MUST be called file.xz
+- Inside that folder must be your zip file, and it MUST be called file.xz
 - If it is not called file.xz it will not work
 - Then run this script recursively until the zip file stops unzipping - you will most likely have to determine when this is
 
