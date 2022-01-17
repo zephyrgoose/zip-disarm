@@ -9,7 +9,7 @@ Usage is as follows:
 - There must be a folder called zippy in the same working directory as this script
 - Inside that folder must be your zip file, and it MUST be called file.xz
 - If it is not called file.xz it will not work
-- Then run this script recursively until the zip file stops unzipping - you will most likely have to determine when this is
+- Then and only then, run this script recursively until the zip file stops unzipping - you will most likely have to determine when this is yourself
 
 
 Requires bzip2, unzip, xzip, and gzip.
