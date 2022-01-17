@@ -5,7 +5,7 @@ Currently, THIS ONLY RUNS ONCE. All this does is attempt bzip2, unzip, xzip and 
 
 This tool is primarily for CTFs, as a tool for unzipping files that have been zipped thousands of times using any of the four compression algorithms as part of this.
 
-Usages is as follows:
+Usage is as follows:
 - There must be a folder called zippy in the same working directory as this script
 - Inside that folder must be your zip file, and it MUST be called file.xz
 - If it is not called file.xz it will not work
